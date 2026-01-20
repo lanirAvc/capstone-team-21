@@ -1,3 +1,3 @@
-const func1 = () => {
+const functionTest = () => {
     console.log(1)
 }
